@@ -1,0 +1,560 @@
+[
+  {
+    "name": "Clarity Gel Wash",
+    "brand": "Aurelle",
+    "category": "Cleanser",
+    "price_inr": 499,
+    "concerns": [
+      "acne",
+      "red"
+    ],
+    "skin_types": [
+      "o",
+      "c"
+    ],
+    "ingredients": [
+      "salicylic acid",
+      "glycerin"
+    ],
+    "shade_hex": null,
+    "undertone": null,
+    "popularity": 0.8,
+    "source_url": null,
+    "synthetic": true
+  },
+  {
+    "name": "Cloud Cream Cleanser",
+    "brand": "Maison Lune",
+    "category": "Cleanser",
+    "price_inr": 650,
+    "concerns": [
+      "dry",
+      "red"
+    ],
+    "skin_types": [
+      "d",
+      "s"
+    ],
+    "ingredients": [
+      "ceramides",
+      "glycerin"
+    ],
+    "shade_hex": null,
+    "undertone": null,
+    "popularity": 0.7,
+    "source_url": null,
+    "synthetic": true
+  },
+  {
+    "name": "Glow Enzyme Wash",
+    "brand": "Veda Lab",
+    "category": "Cleanser",
+    "price_inr": 799,
+    "concerns": [
+      "dull",
+      "pig"
+    ],
+    "skin_types": [
+      "c",
+      "o",
+      "d"
+    ],
+    "ingredients": [
+      "papain",
+      "lactic acid"
+    ],
+    "shade_hex": null,
+    "undertone": null,
+    "popularity": 0.6,
+    "source_url": null,
+    "synthetic": true
+  },
+  {
+    "name": "Calm Micellar Water",
+    "brand": "Maison Lune",
+    "category": "Cleanser",
+    "price_inr": 450,
+    "concerns": [
+      "red",
+      "dry"
+    ],
+    "skin_types": [
+      "s",
+      "d",
+      "c"
+    ],
+    "ingredients": [
+      "glycerin",
+      "allantoin"
+    ],
+    "shade_hex": null,
+    "undertone": null,
+    "popularity": 0.75,
+    "source_url": null,
+    "synthetic": true
+  },
+  {
+    "name": "Niacinamide 10%",
+    "brand": "Veda Lab",
+    "category": "Serum",
+    "price_inr": 599,
+    "concerns": [
+      "acne",
+      "pig",
+      "red"
+    ],
+    "skin_types": [
+      "o",
+      "c"
+    ],
+    "ingredients": [
+      "niacinamide",
+      "zinc"
+    ],
+    "shade_hex": null,
+    "undertone": null,
+    "popularity": 0.95,
+    "source_url": null,
+    "synthetic": true
+  },
+  {
+    "name": "Vitamin C Radiance",
+    "brand": "Aurelle",
+    "category": "Serum",
+    "price_inr": 1299,
+    "concerns": [
+      "dull",
+      "pig",
+      "age"
+    ],
+    "skin_types": [
+      "c",
+      "d",
+      "o"
+    ],
+    "ingredients": [
+      "vitamin c",
+      "ferulic acid"
+    ],
+    "shade_hex": null,
+    "undertone": null,
+    "popularity": 0.85,
+    "source_url": null,
+    "synthetic": true
+  },
+  {
+    "name": "Retinal Night Serum",
+    "brand": "Solenne",
+    "category": "Serum",
+    "price_inr": 1899,
+    "concerns": [
+      "age",
+      "pig",
+      "acne"
+    ],
+    "skin_types": [
+      "c",
+      "o",
+      "d"
+    ],
+    "ingredients": [
+      "retinal",
+      "squalane"
+    ],
+    "shade_hex": null,
+    "undertone": null,
+    "popularity": 0.7,
+    "source_url": null,
+    "synthetic": true
+  },
+  {
+    "name": "Hyaluronic Barrier",
+    "brand": "Maison Lune",
+    "category": "Serum",
+    "price_inr": 899,
+    "concerns": [
+      "dry",
+      "red",
+      "age"
+    ],
+    "skin_types": [
+      "d",
+      "s",
+      "c"
+    ],
+    "ingredients": [
+      "hyaluronic acid",
+      "panthenol"
+    ],
+    "shade_hex": null,
+    "undertone": null,
+    "popularity": 0.9,
+    "source_url": null,
+    "synthetic": true
+  },
+  {
+    "name": "Azelaic Calm",
+    "brand": "Solenne",
+    "category": "Serum",
+    "price_inr": 1099,
+    "concerns": [
+      "red",
+      "acne",
+      "pig"
+    ],
+    "skin_types": [
+      "s",
+      "o",
+      "c"
+    ],
+    "ingredients": [
+      "azelaic acid"
+    ],
+    "shade_hex": null,
+    "undertone": null,
+    "popularity": 0.55,
+    "source_url": null,
+    "synthetic": true
+  },
+  {
+    "name": "Gel Cream Matte",
+    "brand": "Aurelle",
+    "category": "Moisturizer",
+    "price_inr": 699,
+    "concerns": [
+      "acne",
+      "dull"
+    ],
+    "skin_types": [
+      "o",
+      "c"
+    ],
+    "ingredients": [
+      "niacinamide",
+      "glycerin"
+    ],
+    "shade_hex": null,
+    "undertone": null,
+    "popularity": 0.7,
+    "source_url": null,
+    "synthetic": true
+  },
+  {
+    "name": "Ceramide Rich Cream",
+    "brand": "Maison Lune",
+    "category": "Moisturizer",
+    "price_inr": 1199,
+    "concerns": [
+      "dry",
+      "red",
+      "age"
+    ],
+    "skin_types": [
+      "d",
+      "s"
+    ],
+    "ingredients": [
+      "ceramides",
+      "squalane"
+    ],
+    "shade_hex": null,
+    "undertone": null,
+    "popularity": 0.8,
+    "source_url": null,
+    "synthetic": true
+  },
+  {
+    "name": "Peptide Night Cream",
+    "brand": "Solenne",
+    "category": "Moisturizer",
+    "price_inr": 1799,
+    "concerns": [
+      "age",
+      "dull"
+    ],
+    "skin_types": [
+      "d",
+      "c"
+    ],
+    "ingredients": [
+      "peptides",
+      "bakuchiol"
+    ],
+    "shade_hex": null,
+    "undertone": null,
+    "popularity": 0.5,
+    "source_url": null,
+    "synthetic": true
+  },
+  {
+    "name": "Barrier Calm Lotion",
+    "brand": "Veda Lab",
+    "category": "Moisturizer",
+    "price_inr": 749,
+    "concerns": [
+      "red",
+      "dry"
+    ],
+    "skin_types": [
+      "s",
+      "c",
+      "d"
+    ],
+    "ingredients": [
+      "panthenol",
+      "centella"
+    ],
+    "shade_hex": null,
+    "undertone": null,
+    "popularity": 0.65,
+    "source_url": null,
+    "synthetic": true
+  },
+  {
+    "name": "Invisible Fluid SPF50",
+    "brand": "Aurelle",
+    "category": "Sunscreen",
+    "price_inr": 799,
+    "concerns": [
+      "pig",
+      "age",
+      "dull"
+    ],
+    "skin_types": [
+      "o",
+      "c"
+    ],
+    "ingredients": [
+      "avobenzone",
+      "niacinamide"
+    ],
+    "shade_hex": null,
+    "undertone": null,
+    "popularity": 0.9,
+    "source_url": null,
+    "synthetic": true
+  },
+  {
+    "name": "Mineral Shield SPF40",
+    "brand": "Maison Lune",
+    "category": "Sunscreen",
+    "price_inr": 999,
+    "concerns": [
+      "red",
+      "pig"
+    ],
+    "skin_types": [
+      "s",
+      "d",
+      "c"
+    ],
+    "ingredients": [
+      "zinc oxide"
+    ],
+    "shade_hex": null,
+    "undertone": null,
+    "popularity": 0.7,
+    "source_url": null,
+    "synthetic": true
+  },
+  {
+    "name": "Tinted Glow SPF50",
+    "brand": "Solenne",
+    "category": "Sunscreen",
+    "price_inr": 1099,
+    "concerns": [
+      "pig",
+      "dull"
+    ],
+    "skin_types": [
+      "d",
+      "c",
+      "o"
+    ],
+    "ingredients": [
+      "iron oxides",
+      "vitamin e"
+    ],
+    "shade_hex": null,
+    "undertone": null,
+    "popularity": 0.6,
+    "source_url": null,
+    "synthetic": true
+  },
+  {
+    "name": "Silk Skin 110 Ivory",
+    "brand": "Solenne",
+    "category": "Foundation",
+    "price_inr": 1499,
+    "concerns": [],
+    "skin_types": [
+      "d",
+      "c",
+      "s"
+    ],
+    "ingredients": [],
+    "shade_hex": "#F3DCC6",
+    "undertone": "cool",
+    "popularity": 0.7,
+    "source_url": null,
+    "synthetic": true
+  },
+  {
+    "name": "Silk Skin 220 Sand",
+    "brand": "Solenne",
+    "category": "Foundation",
+    "price_inr": 1499,
+    "concerns": [],
+    "skin_types": [
+      "d",
+      "c",
+      "s"
+    ],
+    "ingredients": [],
+    "shade_hex": "#E3BF9B",
+    "undertone": "warm",
+    "popularity": 0.8,
+    "source_url": null,
+    "synthetic": true
+  },
+  {
+    "name": "Silk Skin 330 Honey",
+    "brand": "Solenne",
+    "category": "Foundation",
+    "price_inr": 1499,
+    "concerns": [],
+    "skin_types": [
+      "d",
+      "c",
+      "s"
+    ],
+    "ingredients": [],
+    "shade_hex": "#CF9E73",
+    "undertone": "warm",
+    "popularity": 0.8,
+    "source_url": null,
+    "synthetic": true
+  },
+  {
+    "name": "Silk Skin 450 Caramel",
+    "brand": "Solenne",
+    "category": "Foundation",
+    "price_inr": 1499,
+    "concerns": [],
+    "skin_types": [
+      "d",
+      "c",
+      "s"
+    ],
+    "ingredients": [],
+    "shade_hex": "#A87450",
+    "undertone": "warm",
+    "popularity": 0.7,
+    "source_url": null,
+    "synthetic": true
+  },
+  {
+    "name": "Silk Skin 570 Espresso",
+    "brand": "Solenne",
+    "category": "Foundation",
+    "price_inr": 1499,
+    "concerns": [],
+    "skin_types": [
+      "d",
+      "c",
+      "s"
+    ],
+    "ingredients": [],
+    "shade_hex": "#6D4430",
+    "undertone": "neutral",
+    "popularity": 0.6,
+    "source_url": null,
+    "synthetic": true
+  },
+  {
+    "name": "Silk Skin 680 Ebony",
+    "brand": "Solenne",
+    "category": "Foundation",
+    "price_inr": 1499,
+    "concerns": [],
+    "skin_types": [
+      "d",
+      "c",
+      "s"
+    ],
+    "ingredients": [],
+    "shade_hex": "#4A2E22",
+    "undertone": "cool",
+    "popularity": 0.5,
+    "source_url": null,
+    "synthetic": true
+  },
+  {
+    "name": "Matte Velvet Sand",
+    "brand": "Aurelle",
+    "category": "Foundation",
+    "price_inr": 999,
+    "concerns": [],
+    "skin_types": [
+      "o",
+      "c"
+    ],
+    "ingredients": [],
+    "shade_hex": "#E0BC98",
+    "undertone": "warm",
+    "popularity": 0.8,
+    "source_url": null,
+    "synthetic": true
+  },
+  {
+    "name": "Matte Velvet Honey",
+    "brand": "Aurelle",
+    "category": "Foundation",
+    "price_inr": 999,
+    "concerns": [],
+    "skin_types": [
+      "o",
+      "c"
+    ],
+    "ingredients": [],
+    "shade_hex": "#CB9A70",
+    "undertone": "neutral",
+    "popularity": 0.75,
+    "source_url": null,
+    "synthetic": true
+  },
+  {
+    "name": "Matte Velvet Caramel",
+    "brand": "Aurelle",
+    "category": "Foundation",
+    "price_inr": 999,
+    "concerns": [],
+    "skin_types": [
+      "o",
+      "c"
+    ],
+    "ingredients": [],
+    "shade_hex": "#A77251",
+    "undertone": "warm",
+    "popularity": 0.7,
+    "source_url": null,
+    "synthetic": true
+  },
+  {
+    "name": "Matte Velvet Cocoa",
+    "brand": "Aurelle",
+    "category": "Foundation",
+    "price_inr": 999,
+    "concerns": [],
+    "skin_types": [
+      "o",
+      "c"
+    ],
+    "ingredients": [],
+    "shade_hex": "#7A4D36",
+    "undertone": "neutral",
+    "popularity": 0.55,
+    "source_url": null,
+    "synthetic": true
+  }
+]

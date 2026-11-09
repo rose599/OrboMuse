@@ -1,0 +1,1 @@
+{"name":"orbo-muse","version":"1.0.0","description":"Explainable beauty recommendation engine and demo UI","scripts":{"test":"node engine.test.js","start":"node server.js"},"license":"MIT"}
